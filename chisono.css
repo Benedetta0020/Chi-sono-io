@@ -1,0 +1,114 @@
+.nome {text-align:center;
+	color:#620694; 
+	font-style:italic;
+}
+.uno { background: #c9356c; 
+		padding: 20px;
+}
+
+.due{ background: #f48db4; 
+	padding: 20px;
+	min-height: 400px;
+}
+.tre{ background: #c9356c; 
+		padding: 70px;
+		font-size: 14px;
+	
+}
+
+.destra{text-align:right;
+		color:#620694;
+	text-shadow:4px 3px white;
+	
+}
+
+.diverso{text-align:right;
+	
+}
+
+.corsivo{text-align:center;
+		font-style:italic;
+		color:darkred;
+	
+}
+
+.quattro{ background: #fab57a; 
+		padding: 20px;
+}
+
+.cinque{background: #edf798; 
+		padding: 20px;
+	min-height: 400px;
+	
+}
+
+.sei{background: #fab57a;
+		padding: 20px;
+		font-size: 14px;
+	
+}
+
+.sette { background: #118a7e; 
+padding: 20px; }
+
+.otto{ background: #93e4c1; 
+	padding: 20px;
+	min-height: 400px;
+}
+
+.nove{ background: #118a7e; 
+		padding: 20px;
+		font-size: 14px;
+}
+
+.U{text-align:right;
+	color:darkblue; 
+	
+}
+
+.passioni{text-align:center;
+		color:pink;
+		text-decoration:underline;
+	
+}
+
+.no{text-align:center;
+	font-style:italic;
+	color:white;
+	
+}
+
+.cinema{ color:darkblue;
+	
+}
+
+.L{text-align:right;
+	color:darkgreen;
+	
+}
+
+.ok{color:darkgreen;
+	
+}
+
+.si{
+	
+}
+
+.chi{ color:#620694;
+	text-shadow:4px 3px white;
+	
+}
+h3{color:#620694;
+	text-shadow:4px 3px white;
+	
+}
+
+.evoluzione{text-decoration:overline;
+			color:orange;
+	
+}
+.storia{color: black;
+			text-shadow:4px 3px white;
+	
+}
